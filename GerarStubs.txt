@@ -1,0 +1,30 @@
+Comandos para gerar os
+
+executor:
+    sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -d adb
+diretorio que vai ficar:
+    -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/src
+pacote que vai ser gerado:
+    -p br.inf.portalfiscal.wsdl.nfe.prod.recepcaoEvento4
+arquivo XSD
+    -uri /Volumes/150GB-Development/cafeperfeito/WSDL/v400/prod/RecepcaoEvento4.wsdl
+
+
+
+
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.hom.nfeAutorizacao4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/hom/NfeAutorizacao4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.hom.nfeConsulta4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/hom/NfeConsulta4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.hom.nfeInutilizacao4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/hom/NfeInutilizacao4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.hom.nfeRetAutorizacao4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/hom/NfeRetAutorizacao4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.hom.nfeStatusServico4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/hom/NfeStatusServico4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.hom.recepcaoEvento4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/hom/RecepcaoEvento4.wsdl
+
+
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.prod.nfeAutorizacao4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/prod/NfeAutorizacao4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.prod.nfeConsulta4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/prod/NfeConsulta4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.prod.nfeInutilizacao4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/prod/NfeInutilizacao4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.prod.nfeRetAutorizacao4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/prod/NfeRetAutorizacao4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.prod.nfeStatusServico4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/prod/NfeStatusServico4.wsdl
+sh /Volumes/150GB-Development/Bibliotecas/AXIS/axis2-1.6.3/bin/wsdl2java.sh -o /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400 -p br.inf.portalfiscal.wsdl.nfe.prod.recepcaoEvento4 -uri /Volumes/150GB-Development/cafeperfeito/BibliotecasMyEssencials/wsdl_Nfe_v400/v400/prod/RecepcaoEvento4.wsdl
+
+
